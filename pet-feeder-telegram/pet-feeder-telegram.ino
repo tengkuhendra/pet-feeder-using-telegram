@@ -119,7 +119,7 @@ void loop() {
 
 
     if (pesan == "/start") {
-      String isiPesan = "Selamat datang di Pakan Ikan Otomatis Bot, silakan gunakan perintah ini\n\n";
+      String isiPesan = "Selamat datang di Pet Feeder Otomatis Bot, silakan gunakan perintah ini\n\n";
       isiPesan += "/kasihPakan untuk memberikan pakan\n";
       isiPesan += "/cekJadwal untuk lihat daftar jadwal\n";
       isiPesan += "/aturJadwal untuk mengatur jadwal\n";
